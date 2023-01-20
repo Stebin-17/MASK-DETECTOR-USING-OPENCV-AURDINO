@@ -65,6 +65,8 @@ In this project Aurdino uno board has been used for obtaining the output. The ci
 
 - The output obtained from this overall project is being given in the following link:-
 
+https://user-images.githubusercontent.com/114398468/213630797-1139dfbe-cb0d-4e17-b93a-eeb8ecb2dca4.mp4
+
 [__https://drive.google.com/file/d/1sPAfTI63Lzk1x6X3-N9ceFKgj2Pd-zxJ/view?usp=sharing__]
 
 ## REFERENCE:
