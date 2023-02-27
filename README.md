@@ -1,4 +1,4 @@
-# Mask Detection using YOLOv5 & AURDINO
+# Mask Detection using OpenCV & AURDINO
 
 This project aims to implemented a alarm system when the person is not wearing a mask is detected during the screening.
 
