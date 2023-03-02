@@ -4,7 +4,7 @@ This project aims to implemented a alarm system when the person is not wearing a
 
 ## INTRODUCTION
 
-In the wake of the novel coronavirus, lots of disciplinary actions are imposed by the government of many countries to slow down the transmission of the deadly virus. With the enhancing usage of modern technology in the period of pandemics to smoothen up the operations and functionality of the numerous organizations. Among these, with the interpretation of AI, facemask detection technology is used to monitor social distancing and even to identify the usage of face masks.
+In the wake of the novel corona virus, lots of disciplinary actions are imposed by the government of many countries to slow down the transmission of the deadly virus. With the enhancing usage of modern technology in the period of pandemics to smoothen up the operations and functionality of the numerous organizations. Among these, with the interpretation of AI, facemask detection technology is used to monitor social distancing and even to identify the usage of face masks.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/114398468/213355132-3a9945ef-ffaa-4cb6-9b6d-59d2afb6c936.png" />
